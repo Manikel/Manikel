@@ -13,7 +13,7 @@ I enjoy experimenting with code, learning new technologies, turning ideas into r
 - [To-Do App](https://github.com/yourusername/todo-app) — Simple web app to track tasks  
 - [Sorting Visualizer](https://github.com/yourusername/sorting-visualizer) — Visualization of sorting algorithms  
 
-## Other Common Github Profile Sections
+## Other
 👩‍💻 I'm currently working on:  
 - Building my portfolio website  
 - Creating small apps to strengthen my skills  
