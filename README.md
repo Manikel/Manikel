@@ -9,7 +9,7 @@ I enjoy experimenting with code, learning new technologies, turning ideas into r
 - **Tools & Frameworks:** Git, GitHub Pages, React (beginner), Node.js (beginner)  
 - **Other Interests:** Electronics repair, problem-solving, and exploring how tech works under the hood  
 ## 📂 Projects  
-- [Personal Website](https://github.com/yourusername/portfolio) — My portfolio site hosted on GitHub Pages  
+- [Personal Website](https://Manikel.github.io) — My portfolio site hosted on GitHub Pages  
 - [To-Do App](https://github.com/yourusername/todo-app) — Simple web app to track tasks  
 - [Sorting Visualizer](https://github.com/yourusername/sorting-visualizer) — Visualization of sorting algorithms  
 
