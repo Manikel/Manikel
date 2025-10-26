@@ -5,7 +5,7 @@
 I'm a high school student passionate about software engineering and building cool projects.  
 I enjoy experimenting with code, learning new technologies, turning ideas into real applications, and making video games.  
 ## 🛠 Skills
-- **Languages:** Python, C#, Lua
+- **Languages:** Python, C#, Lua, JavaScript, CSS
 - **Tools & Frameworks:** Git, GitHub Pages, React (beginner), Node.js (beginner)  
 - **Other Interests:** Electronics repair, problem-solving, and exploring how tech works under the hood  
 ## 📂 Projects  
