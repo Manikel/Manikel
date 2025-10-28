@@ -9,24 +9,24 @@ I enjoy experimenting with code, learning new technologies, turning ideas into r
 - **Tools & Frameworks:** Git, GitHub Pages, React (beginner), Node.js (beginner)  
 - **Other Interests:** Electronics repair, problem-solving, and exploring how tech works under the hood  
 ## 📂 Projects  
-- [Personal Website](https://Manikel.github.io) — My portfolio site hosted on GitHub Pages  
-- [To-Do App](https://github.com/yourusername/todo-app) — Simple web app to track tasks  
-- [Sorting Visualizer](https://github.com/yourusername/sorting-visualizer) — Visualization of sorting algorithms  
+- [Roblox Server Selector](https://github.com/Manikel/RRS) — 3D globe projection, interactive.
+- [Comparos](https://github.com/Comparos/) — Compare items effortlessly 
+- [Personal Website](https://Manikel.github.io) — My portfolio site hosted on GitHub Pages    
 
 ## Other
-👩‍💻 I'm currently working on:  
+ I'm currently working on:  
 - Building my portfolio website  
 - Creating small apps to strengthen my skills  
 
-🧠 I'm currently learning:  
+ I'm currently learning:  
 - Data structures & algorithms  
 - React for web development  
 
-👯‍♀️ I'm looking to collaborate on:
+ I'm looking to collaborate on:
 - Web apps or tools for students  
 
-🤔 I'm looking for help with:  
-- Improving my code structure
+ I'm looking for help with:  
+- Nothing currently
 
 💬 Ask me about:  
 - Basics of Python, C#, or JavaScript  
@@ -35,7 +35,7 @@ I enjoy experimenting with code, learning new technologies, turning ideas into r
 
 📫 How to reach me:  
 - Email: manikelidari@gmail.com 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)  
+- LinkedIn: [https://www.linkedin.com/in/mani-kelidari-980583196/](https://linkedin.com)  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
