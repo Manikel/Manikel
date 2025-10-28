@@ -10,7 +10,7 @@ I enjoy experimenting with code, learning new technologies, turning ideas into r
 - **Other Interests:** Electronics repair, problem-solving, and exploring how tech works under the hood  
 ## 📂 Projects  
 - [Roblox Server Selector](https://github.com/Manikel/RRS) — 3D globe projection, interactive.
-- [Comparos](https://github.com/Comparos/) — Compare items effortlessly 
+- [Comparos](https://github.com/Manikel/Comparos/) — Compare items effortlessly 
 - [Personal Website](https://Manikel.github.io) — My portfolio site hosted on GitHub Pages    
 
 ## Other
